@@ -1,0 +1,32 @@
+Architectures: amd64 arm64
+Codename: jammy
+Components: main
+Date: Wed, 13 May 2026 12:21:53 +0000
+Description: ikafssn APT channel (jammy)
+Label: ikafssn
+Origin: ikafssn
+Suite: jammy
+MD5Sum:
+ 245b5e9be59366405ce3b51dd386f89b              183 Release
+ 6376ca2f12c2332fa6c33b15932f96c6              872 main/binary-amd64/Packages
+ bdd7abdbc3fb50fe3358d4d57ac1ea0e              563 main/binary-amd64/Packages.gz
+ ad650590cb40e457fcbe07bba3b3f533              872 main/binary-arm64/Packages
+ 94cc3474d9811d4b79fbc5854607dd4e              563 main/binary-arm64/Packages.gz
+SHA1:
+ 896cf6d7b8908d3db9505d35c5faa28a7aae3fe3              183 Release
+ ee7ab70181d47a56b27e0e9757ae009fad926d1c              872 main/binary-amd64/Packages
+ 4e042de79075f595cae7596b820d421614f68ff8              563 main/binary-amd64/Packages.gz
+ bea42cb90569d002fca1294e4b9e176c4288c631              872 main/binary-arm64/Packages
+ 8a38422c947f5ed72c899732b5c4c06bd1c8cf71              563 main/binary-arm64/Packages.gz
+SHA256:
+ 918c549ac9850df44ae4db4a02986542018c3074af2a6b3dcbb0a7b017da17cb              183 Release
+ 11ac358e26837e591ce345b6e4153a6aff87a8d549367e6918296af49ce0937d              872 main/binary-amd64/Packages
+ 9a1b58dbebbdedd69eb537e395f59d91037278866ed19bb9d33bebecebe9e3d6              563 main/binary-amd64/Packages.gz
+ 6b8a143ac9b437ea88fc50c5e6b71b2e2e34c2327ae8510db5183e6dc667c535              872 main/binary-arm64/Packages
+ 82730448525a96c9711320149f66791d00e244913655b6f2d46b9ca0589da962              563 main/binary-arm64/Packages.gz
+SHA512:
+ 440790bb3d3818d8782f4fa582adc1b07f15e88c8b91760f40afa2cc3eb3cf73960b5e6bac671a2c344526f93819ae7c6351d5099b4bdb3eee5c2d1f832f169b              183 Release
+ 34dc7276bf253e3ee31827115de794607f38ef9e02980b5a12ea66edbe3514dc9c3c2cd2c47ae8ad3f4030b7fb04b6a477d38ab356653ca95deab91fdffa17c3              872 main/binary-amd64/Packages
+ fd6c866269c0d3d2b0ed34f5459fc63f6adbbc6d5a951b3395ba3ba896b0f17f8ea7d5e1107807613456c04bce22d04f9e71e4a98379adf806dda059afcee38f              563 main/binary-amd64/Packages.gz
+ 163c091a197521054a535ef38aa9638e7c1de33b039e7a357d32bd5e3023f15cccde855de4f7dad9a115e5e7ba47c0c0bf42ca4372a4aae7fa916370af9ecd06              872 main/binary-arm64/Packages
+ beff3992605d0bd471afb47699ea05bbc1c0279941961d5db49e0dc603cb93a7789b9503a49c59780e62df7adbb838eeccfb6c7bc47b12c04ef33bf4529d8e1a              563 main/binary-arm64/Packages.gz
