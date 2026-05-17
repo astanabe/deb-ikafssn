@@ -2,13 +2,13 @@ Package: ikafssn
 Version: 0.1.2026.05.17
 Architecture: arm64
 Maintainer: Akifumi S. Tanabe
-Installed-Size: 96423
+Installed-Size: 96551
 Depends: libbz2-1.0, libc6 (>= 2.38), libcurl4t64 (>= 7.16.2), libdeflate0 (>= 1.0), libgcc-s1 (>= 4.5), libjsoncpp25 (>= 1.9.5), liblmdb0 (>= 0.9.7), liblzma5 (>= 5.1.1alpha+20120614), libsqlite3-0 (>= 3.5.9), libssl3t64 (>= 3.0.0), libstdc++6 (>= 13.1), libtbb12 (>= 2021.11.0), libuuid1 (>= 2.16), libzstd1 (>= 1.5.5), zlib1g (>= 1:1.2.0)
 Filename: /home/runner/work/ikafssn/ikafssn/deb-ikafssn/pool/main/i/ikafssn/ikafssn_0.1.2026.05.17_ubuntu-24.04_arm64.deb
-Size: 35605064
-MD5sum: b0e1c37c7664082d1f9ffd3b0a34030e
-SHA1: 9257951fe4a4428ba593fd4387d21992e7956ce2
-SHA256: 7711cde433b0bf25c527741c46c35634cf8e48f3c94b22c48d1ad13ff600424d
+Size: 35609720
+MD5sum: 3562ad84f38667fa608b8b0790ac22e3
+SHA1: 213f0d54d447da90023b33147b40d8f6fa72757f
+SHA256: ef6c3ca435ea78a8dd2d7982606b8364a1932ed8f6802c466c70524a4413ef0f
 Section: science
 Priority: optional
 Description: K-mer-based alignment-free similarity search for nucleotide sequences
