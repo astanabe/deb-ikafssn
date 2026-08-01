@@ -4,7 +4,7 @@ Architecture: amd64
 Maintainer: Akifumi S. Tanabe
 Installed-Size: 118211
 Depends: libbz2-1.0, libc6 (>= 2.38), libcurl4t64 (>= 7.16.2), libdeflate0 (>= 1.0), libgcc-s1 (>= 12), libjsoncpp25 (>= 1.9.5), liblmdb0 (>= 0.9.7), liblzma5 (>= 5.1.1alpha+20120614), libsqlite3-0 (>= 3.5.9), libssl3t64 (>= 3.0.0), libstdc++6 (>= 13.1), libtbb12 (>= 2021.4.0), libuuid1 (>= 2.16), libzstd1 (>= 1.5.5), zlib1g (>= 1:1.2.0)
-Filename: /home/runner/work/ikafssn/ikafssn/deb-ikafssn/pool/main/i/ikafssn/ikafssn_0.1.2026.08.02_ubuntu-24.04_amd64.deb
+Filename: pool/main/i/ikafssn/ubuntu-24.04/amd64/ikafssn_0.1.2026.08.02_ubuntu-24.04_amd64.deb
 Size: 44349332
 MD5sum: a23c2f85cce22216e3cf776f8630f5ef
 SHA1: 5a1171288681e500e131489a36e28ce506a9ed65
