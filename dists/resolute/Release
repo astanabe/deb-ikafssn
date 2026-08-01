@@ -1,0 +1,32 @@
+Architectures: amd64 arm64
+Codename: resolute
+Components: main
+Date: Sat, 01 Aug 2026 20:10:12 +0000
+Description: ikafssn APT channel (resolute)
+Label: ikafssn
+Origin: ikafssn
+Suite: resolute
+MD5Sum:
+ cbbf864af1f0af2c6e61d69811e25c20              192 Release
+ 10f285585b5e919b6bddeb9f4de7176e              870 main/binary-amd64/Packages
+ 643a99eb060534737415c7f5d53e7bad              561 main/binary-amd64/Packages.gz
+ 6656ec965505333ec3cde4c5753f906d              870 main/binary-arm64/Packages
+ 76d5da21bfa2e0cf206821e8f505c128              564 main/binary-arm64/Packages.gz
+SHA1:
+ dfaa4f2c001d2dd8a5bc57e10852e647d84999d9              192 Release
+ a9a07f4e9481294287e9d5169060efdef06252a6              870 main/binary-amd64/Packages
+ 09cab204c3e3ff233bdbf7645e6a5cc7ae4c1218              561 main/binary-amd64/Packages.gz
+ 578e0fdf990b7d85f2de6c3982e0910b422c1c0b              870 main/binary-arm64/Packages
+ 23249e77e07dcf4bdfc9fab04728205e13878881              564 main/binary-arm64/Packages.gz
+SHA256:
+ fd93d6c98d25bd0259a6dcdf56b1c51f6a76da99d0e98352ad1af23047fb28ac              192 Release
+ d564cc08b4c3a6d201489de94b1aba7ba9a15885a5fdef9b4adee6e965fff19e              870 main/binary-amd64/Packages
+ 91a3bdd88406f24366dd931a7e873c02186e6f117b707d942797ab5b8f1b61c8              561 main/binary-amd64/Packages.gz
+ a03868dbc44efbcca76c982378e2d234e74afa0b0e97864b0fc39badcb394b59              870 main/binary-arm64/Packages
+ bb0b4e7de51bdc0a40f79b89849200831f598b4dbef3f91a92fb86301db4a03d              564 main/binary-arm64/Packages.gz
+SHA512:
+ 1387c8671e8e3f9930d38eaa7a6a14b6b06e2fa3a398f18790a56544a595db2a5ea3e020a6f9bddf940a9777749aacfbec09b29196e44cfb7db4eedc75dc766e              192 Release
+ 3dce217fef8f3c48100037d45a420d2f844875cfbaa84277498f7d923da9339b1b355ba4da38d69b17ca21570811126993fda38c773e21a66f37cdf26809e80c              870 main/binary-amd64/Packages
+ e2669418e4f33500924c727806a6beb82ef784c18e2db6dd258e293173b90546c8d3ca918ef78aa22005fae879e7ddcf2a3054e485fab5378dc52cd0f291bcf1              561 main/binary-amd64/Packages.gz
+ 9710f70833c0af5a640065416e79933fc332ffcb4d78957461d8b51d1dfdf1f850eb2629df0870590e877e410963fc775bb4770e10db48c1267019b18492ff08              870 main/binary-arm64/Packages
+ 299b2a14d17736641980d6f02bf197037daa276976c0039a2c841d6d09a3153da78af8d59284c52ab39c32255c2673ad025d42cf8285596ea1275e9f465d2f52              564 main/binary-arm64/Packages.gz
