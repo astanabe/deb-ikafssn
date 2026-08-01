@@ -44,10 +44,10 @@ sudo apt update && sudo apt upgrade ikafssn
 ## Layout
 
 ```
-CNAME, README.md, ikafssn-archive-keyring.asc       (static; one-time)
-pool/main/i/ikafssn/*.deb                            (regenerated per release)
-dists/<suite>/Release, Release.gpg, InRelease        (regenerated per release)
-dists/<suite>/main/binary-<arch>/Packages{,.gz}      (regenerated per release)
+CNAME, README.md, ikafssn-archive-keyring.asc            (static; one-time)
+pool/main/i/ikafssn/ubuntu-<ver>/<arch>/ikafssn_*.deb    (regenerated per release)
+dists/<suite>/Release, Release.gpg, InRelease            (regenerated per release)
+dists/<suite>/main/binary-<arch>/Packages{,.gz}          (regenerated per release)
 ```
 
 ## How this channel works
