@@ -39,6 +39,7 @@ sudo apt update && sudo apt upgrade ikafssn
 |---|---|---|
 | `jammy` | Ubuntu 22.04 LTS | `amd64`, `arm64` |
 | `noble` | Ubuntu 24.04 LTS | `amd64`, `arm64` |
+| `resolute` | Ubuntu 26.04 LTS | `amd64`, `arm64` |
 
 ## Layout
 
@@ -71,7 +72,7 @@ ikafssn's
 workflow (`update-deb-channel` job): after all `.deb` artifacts are
 uploaded to the release, the helper `recipe/deb-publish.sh`
 - wipes `pool/` and `dists/`,
-- downloads the four `.deb` assets,
+- downloads the six `.deb` assets,
 - runs `dpkg-scanpackages` and `apt-ftparchive` per suite,
 - signs each `Release` with `gpg --clearsign` (→ `InRelease`) and
   `gpg --detach-sign --armor` (→ `Release.gpg`),
