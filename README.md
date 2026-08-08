@@ -37,7 +37,6 @@ sudo apt update && sudo apt upgrade ikafssn
 
 | Suite | Ubuntu release | Architectures |
 |---|---|---|
-| `jammy` | Ubuntu 22.04 LTS | `amd64`, `arm64` |
 | `noble` | Ubuntu 24.04 LTS | `amd64`, `arm64` |
 | `resolute` | Ubuntu 26.04 LTS | `amd64`, `arm64` |
 
