@@ -1,14 +1,14 @@
 Package: ikafssn
-Version: 0.1.2026.10.27
+Version: 0.1.2026.10.28
 Architecture: arm64
 Maintainer: Akifumi S. Tanabe
 Installed-Size: 98343
 Depends: libbz2-1.0, libc6 (>= 2.38), libcurl4t64 (>= 7.16.2), libdeflate0 (>= 1.0), libgcc-s1 (>= 4.5), libjsoncpp26 (>= 1.9.6), liblmdb0 (>= 0.9.7), liblzma5 (>= 5.1.1alpha+20120614), libsqlite3-0 (>= 3.5.9), libssl3t64 (>= 3.0.0), libstdc++6 (>= 14), libtbb12 (>= 2022.3.0), libuuid1 (>= 2.16), libzstd1 (>= 1.5.5), zlib1g (>= 1:1.2.0)
-Filename: pool/main/i/ikafssn/ubuntu-26.04/arm64/ikafssn_0.1.2026.10.27_ubuntu-26.04_arm64.deb
-Size: 37551282
-MD5sum: 2d2833ca68aa789aa24bb4dc3a2efed8
-SHA1: 65247d0bf07e7ea9f3245b4e6a7b3368c0a763cb
-SHA256: 43df8473fe3e4ae5586493224882ff8d04e3af50a7fb6a502cb006e44eee6832
+Filename: pool/main/i/ikafssn/ubuntu-26.04/arm64/ikafssn_0.1.2026.10.28_ubuntu-26.04_arm64.deb
+Size: 37552308
+MD5sum: a0a2084b22c250cdeeda12a448a2ae72
+SHA1: 75c56a5299e54cf63622b774de796ec42087306a
+SHA256: bf64d8acdd6eb1eb3fce875955c3a9d3d54c7809d5700c4f7a5678a50b444b89
 Section: science
 Priority: optional
 Description: K-mer-based alignment-free similarity search for nucleotide sequences
